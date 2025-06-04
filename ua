@@ -30,13 +30,13 @@ xkb_symbols "unicode" {
     key <AD01>	{[ Cyrillic_shorti, Cyrillic_SHORTI,    Cyrillic_je,         Cyrillic_JE ]};
     key <AD02>	{[    Cyrillic_tse,    Cyrillic_TSE,  Cyrillic_dzhe,       Cyrillic_DZHE ]};
     key <AD03>	{[      Cyrillic_u,      Cyrillic_U, Byelorussian_shortu, Byelorussian_SHORTU ]};
-    key <AD04>	{[     Cyrillic_ka,     Cyrillic_KA,          U0465,         U0464       ]};  // je
+    key <AD04>	{[     Cyrillic_ka,     Cyrillic_KA,          U046F,         U046E       ]};  // ksi
     key <AD05>	{[     Cyrillic_ie,     Cyrillic_IE,    Cyrillic_io,         Cyrillic_IO ]};
     key <AD06>	{[     Cyrillic_en,     Cyrillic_EN,   Cyrillic_nje,        Cyrillic_NJE ]};
     key <AD07>	{[ Cyrillic_ghe, Cyrillic_GHE, Ukrainian_ghe_with_upturn, Ukrainian_GHE_WITH_UPTURN ]};
     key <AD09>	{[           U0449,           U0429,         U0471,                U0470 ]}; // psi
-    key <AD10>	{[           U0437,           U0417,         U0475,                U0474 ]}; // izhitsa
-    key <AD11>	{[           U0445,           U0425,         U046F,                U046E ]}; // ksi
+    key <AD10>	{[           U0437,           U0417,         UA643,                UA642 ]}; // dze_z
+    key <AD11>	{[           U0445,           U0425,         U0479,               U+0478 ]}; // ou
     key <AD12>	{[    Ukrainian_yi,    Ukrainian_YI, Cyrillic_hardsign,Cyrillic_HARDSIGN ]};
 
     key <AC01>	{[           U0444,           U0424,          U0473,              U0472  ]}; // fita
@@ -50,7 +50,8 @@ xkb_symbols "unicode" {
 
     key <AB01>	{[           U044F,           U042F,      UA657,                   UA656 ]}; // ia
     key <AB02>	{[    Cyrillic_che,    Cyrillic_CHE,   Serbian_tshe,        Serbian_TSHE ]};
-    key <AB03>	{[     Cyrillic_es,     Cyrillic_ES,      U0463,             U0462       ]};  // jat'
+    key <AB03>	{[     Cyrillic_es,     Cyrillic_ES,      U0455,             U0405       ]};  // dze_s
+    key <AB05>	{[           U0438,           U0418,      U0475,             U0474       ]};  // izhitsa
     key <AB06>	{[     Cyrillic_te,     Cyrillic_TE,      U046B,             U046A       ]};  // big jus
     key <AB07>	{[           U044C,           U042C,      U0467,             U0466       ]};  // little jus
     key <AB08>	{[     Cyrillic_be,     Cyrillic_BE,      U0469,             U0468       ]}; // jot. little yus
