@@ -36,7 +36,7 @@ xkb_symbols "unicode" {
     key <AD07>	{[ Cyrillic_ghe, Cyrillic_GHE, Ukrainian_ghe_with_upturn, Ukrainian_GHE_WITH_UPTURN ]};
     key <AD09>	{[           U0449,           U0429,         U0471,                U0470 ]}; // psi
     key <AD10>	{[           U0437,           U0417,         UA643,                UA642 ]}; // dze_z
-    key <AD11>	{[           U0445,           U0425,         U0479,               U+0478 ]}; // ou
+    key <AD11>	{[           U0445,           U0425,         U0479,                U0478 ]}; // ou
     key <AD12>	{[    Ukrainian_yi,    Ukrainian_YI, Cyrillic_hardsign,Cyrillic_HARDSIGN ]};
 
     key <AC01>	{[           U0444,           U0424,          U0473,              U0472  ]}; // fita
