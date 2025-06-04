@@ -1,10 +1,12 @@
-# ukrainian-keyboard-layout-enhanced
+# xkb-ukrainian-enhanced
 Ukrainian keyboard layout with old Cyrillic letters
 
 ![Ukrainian enhanced](https://raw.githubusercontent.com/savetier/Ukrainian-enhanced-xkb/refs/heads/main/Ukrainian_enhanced.png)
 
-# Install (tested on Arch, EndeavourOS, Manjaro and Ubuntu)
+# Install
 
-wget https://raw.githubusercontent.com/savetier/ukrainian-keyboard-layout-enhanced/refs/heads/main/ua
+Tested on Arch, EndeavourOS, Manjaro, and Ubuntu
 
-sudo mv ua /usr/share/X11/xkb/symbols/ua
+```wget https://raw.githubusercontent.com/savetier/ukrainian-keyboard-layout-enhanced/refs/heads/main/ua```
+
+```sudo mv ua /usr/share/X11/xkb/symbols/ua```
